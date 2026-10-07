@@ -1,0 +1,510 @@
+RNAseq_ID,Primary.Recurrent,IDH,Grade,Annotation,Annotation_fine,Glio.,Dataset,WES_ID,X,batch
+G51A,Primary,WT,4,CE,NEC,51,D6,G51A,x,batch1
+G51C,Primary,WT,4,CE,NEC,51,D6,G51C,x,batch1
+G108E,Primary,WT,4,CE,NEC,108,D6,NA,x,batch1
+G117B,Primary,WT,4,CE,CE,117,D6,G117B,,batch1
+G117D,Primary,WT,4,CE,CE,117,D6,G117D,,batch1
+G117F,Primary,WT,4,CE,NEC,117,D6,G117F,,batch1
+G117H,Primary,WT,4,CE,NEC,117,D6,G117H,,batch1
+G117I,Primary,WT,4,CE,NEC,117,D6,G117I,,batch1
+G117J,Primary,WT,4,CE,CE,117,D6,G117J,,batch1
+G117K,Primary,WT,4,CE,CE,117,D6,G117K,x,batch1
+G132B,Primary,WT,4,CE,NEC,132,D6,NA,x,batch1
+G135I,Primary,WT,4,CE,NEC,135,D6,G135I,x,batch1
+G146B,Recurrent,WT,4,CE,NEC,146,D6,G146B,,batch1
+G146G,Recurrent,WT,4,CE,NEC,146,D6,G146G,x,batch1
+G148I,Primary,WT,4,CE,CE,148,D6,G148I,,batch1
+G148L,Primary,WT,4,CE,NEC,148,D6,G148L,,batch1
+M74G,Recurrent,WT,4,CE,CE,44_2,D6,M74G,x,batch1
+M91H,Recurrent,WT,4,CE,CE,76_2,D6,M91H,,batch1
+M115B,Primary,WT,4,CE,CE,128_1,D6,M115B,,batch1
+M115D,Primary,WT,4,CE,CE,128_1,D6,M115D,,batch1
+M115E,Primary,WT,4,CE,NEC,128_1,D6,M115E,,batch1
+M115I,Primary,WT,4,CE,CE,128_1,D6,M115I,,batch1
+R189F,Primary,WT,4,CE,NEC,189,D7,D189F,,batch1
+R189J,Primary,WT,4,CE,CE,189,D7,NA,,batch1
+R189L,Primary,WT,4,CE,NEC,189,D7,NA,,batch1
+R190-1H,Recurrent,WT,4,CE,CE,190_1,D7,D190-1H,,batch1
+R190-1J,Recurrent,WT,4,CE,CE,190_1,D7,NA,,batch1
+R190-1N,Recurrent,WT,4,CE,CE,190_1,D7,NA,,batch1
+R190-1P,Recurrent,WT,4,CE,CE,190_1,D7,NA,,batch1
+R190-1R,Recurrent,WT,4,CE,CE,190_1,D7,NA,,batch1
+R190-2K,Recurrent,WT,4,CE,CE/NEC,190_2,D7,D190-2K,,batch1
+R190-2L,Recurrent,WT,4,CE,CE/NEC,190_2,D7,D190-2L,,batch1
+R190-2N,Recurrent,WT,4,CE,CE,190_2,D7,D190-2N,,batch1
+R190-2O,Recurrent,WT,4,CE,CE/NEC,190_2,D7,D190-2O,,batch1
+R191A,Recurrent,WT,4,CE,CE/NEC,191,D7,NA,,batch1
+R191E,Recurrent,WT,4,CE,CENTRAL RESECTION CAVITY,191,D7,D191E,,batch1
+R191G,Recurrent,WT,4,CE,CE/NEC,191,D7,NA,,batch1
+R198G1,Primary,WT,4,CE,CE,198,D7,D198G1,,batch1
+R198I1,Primary,WT,4,CE,CE,198,D7,D198I1,,batch1
+R198J,Primary,WT,4,CE,CE,198,D7,D198J,,batch1
+R198M1,Primary,WT,4,CE,CE,198,D7,D198M1,,batch1
+R203B1,Recurrent,WT,4,CE,NEC,203,D7,D203B1,,batch1
+R203C,Recurrent,WT,4,CE,CE,203,D7,D203C,,batch1
+R203D1,Recurrent,WT,4,CE,CE/NEC,203,D7,NA,,batch1
+R203G1,Recurrent,WT,4,CE,CE,203,D7,D203G1,,batch1
+R203H,Recurrent,WT,4,CE,CE/NEC,203,D7,NA,,batch1
+R203I1,Recurrent,WT,4,CE,CE,203,D7,NA,,batch1
+R205J,Recurrent,WT,4,CE,CE,205,D7,NA,,batch1
+R216J,Recurrent,WT,4,CE,CE/NEC,216,D7,NA,x,batch1
+R216O1,Recurrent,WT,4,CE,CE,216,D7,NA,,batch1
+R217B,Primary,WT,4,CE,NEC,217,D7,D217B,,batch1
+R217C,Primary,WT,4,CE,NEC,217,D7,D217C,,batch1
+R217D,Primary,WT,4,CE,NEC,217,D7,D217D,,batch1
+R217H1,Primary,WT,4,CE,CE/NE MARGIN,217,D7,D217H1,,batch1
+R217O,Primary,WT,4,CE,CE,217,D7,D217O,,batch1
+R207Q,Recurrent,WT,4,CE,CE,207,D7,NA,,batch1
+R210-1I,Recurrent,WT,4,CE,CE,210_1,D7,D210-1I,,batch1
+R210-1L,Recurrent,WT,4,CE,CE,210_1,D7,D210-1L,,batch1
+R210-2D,Recurrent,WT,4,CE,CE,210_2,D7,D210-2D,,batch1
+R210-2F,Recurrent,WT,4,CE,CE,210_2,D7,D210-2F,,batch1
+R210-2H,Recurrent,WT,4,CE,CE,210_2,D7,D210-2H,,batch1
+R210-2K,Recurrent,WT,4,CE,CE,210_2,D7,D210-2K,,batch1
+R214-1B,Primary,WT,4,CE,CE*,214_1,D7,D214-1B,,batch1
+R214-1C,Primary,WT,4,CE,CE*,214_1,D7,NA,,batch1
+R105D,Recurrent,Wt,4,CE,CE,105,D7,D105D,x,batch1
+R105I,Recurrent,Wt,4,CE,CE,105,D7,D105I,x,batch1
+R137B,Recurrent,Wt,4,CE,CE/NEC,137,D7,NA,,batch1
+R137C,Recurrent,Wt,4,CE,NEC,137,D7,NA,,batch1
+R139E,Recurrent,Wt,4,CE,CE/DURA,139,D7,D139E,,batch1
+R139H,Recurrent,Wt,4,CE,CE,139,D7,D139H,,batch1
+R139I,Recurrent,Wt,4,CE,CE,139,D7,D139I,,batch1
+R151E,Recurrent,Wt,4,CE,CE,151,D7,D151E,,batch1
+R151J,Recurrent,Wt,4,CE,NEC,151,D7,D151J,,batch1
+R151K,Recurrent,Wt,4,CE,NEC,151,D7,D151K,,batch1
+R157C,Recurrent,Wt,4,CE,CE,157,D7,D157C,,batch1
+R157D,Recurrent,Wt,4,CE,CE,157,D7,D157D,,batch1
+R157G,Recurrent,Wt,4,CE,CE/NEC,157,D7,D157G,,batch1
+R157H,Recurrent,Wt,4,CE,CE,157,D7,D157H,,batch1
+R195B,Recurrent,WT,4,CE,CE,195,D7,D195B,,batch1
+R195C,Recurrent,WT,4,CE,CE,195,D7,D195C,,batch1
+R195E,Recurrent,WT,4,CE,CE/NE CENTRAL?,195,D7,D195E,,batch1
+R195F,Recurrent,WT,4,CE,CE,195,D7,D195F,,batch1
+R195H,Recurrent,WT,4,CE,CE/NE CENTRAL?,195,D7,D195H,,batch1
+R195I,Recurrent,WT,4,CE,CE,195,D7,D195I,,batch1
+R59-2B1,Recurrent,N/A,4,CE,CE,59_2,D7,D59-2B1,,batch1
+R128-2D,Recurrent,Wt,4,CE,CE,128_2,D7,D128-2D,,batch1
+R180-2N,Recurrent,WT,4,CE,CE (PERIPHERY ON EDGE),180_2,D7,NA,,batch1
+R199-2D,Recurrent,wt,4,CE,CE,199_2,D7,D199-2D,,batch1
+R199-2I,Recurrent,wt,4,CE,CE,199_2,D7,NA,,batch1
+R74-3B,Recurrent,Mut,4,CE,CE/CAVITY,74_3,D7,NA,x,batch1
+R74-3C,Recurrent,Mut,4,CE,CE,74_3,D7,NA,x,batch1
+R74-3D,Recurrent,Mut,4,CE,CE,74_3,D7,NA,x,batch1
+R74-3E,Recurrent,Mut,4,CE,CE,74_3,D7,NA,x,batch1
+R74-3F,Recurrent,Mut,4,CE,CE,74_3,D7,NA,x,batch1
+R74-3G,Recurrent,Mut,4,CE,CE/DURA,74_3,D7,NA,x,batch1
+R74-3H,Recurrent,Mut,4,CE,CE/CAVITY,74_3,D7,NA,x,batch1
+R74-3I,Recurrent,Mut,4,CE,CE/CAVITY,74_3,D7,NA,x,batch1
+R99-2C,Recurrent,Mut,4,CE,CE,99_2,D7,NA,,batch1
+R99-2F,Recurrent,Mut,4,CE,CE,99_2,D7,NA,,batch1
+R144-1B,Recurrent,Mut,4,CE,CE,144_1,D7,NA,,batch1
+R144-1D,Recurrent,Mut,4,CE,CE,144_1,D7,NA,,batch1
+R144-1H,Recurrent,Mut,4,CE,CE,144_1,D7,NA,,batch1
+R144-1I,Recurrent,Mut,4,CE,CE,144_1,D7,NA,,batch1
+R144-2E,Recurrent,Mut,4,CE,CE/NE MARGIN,144_2,D7,NA,x,batch1
+R147G,Primary,Mut,4,CE,CE,147,D7,NA,x,batch1
+R204B,Recurrent,Mut,3,CE,CE,204,D7,NA,,batch1
+R204G,Recurrent,Mut,3,CE,CE/DURA?,204,D7,NA,,batch1
+R204H,Recurrent,Mut,3,CE,CE/NE MARGIN,204,D7,NA,,batch1
+R204I,Recurrent,Mut,3,CE,CE/NE MARGIN,204,D7,NA,,batch1
+G132J,Primary,WT,4,exclude,exclude,132,D6,NA,x,batch1
+G122B,Primary,WT,4,NE,NE,122,D6,G122B,x,batch1
+G122F,Primary,WT,4,NE,NE,122,D6,G122F,,batch1
+G125C,Primary,WT,4,NE,NE,125,D6,G125C,,batch1
+G125E,Primary,WT,4,NE,NE,125,D6,G125E,,batch1
+G125F,Primary,WT,4,NE,NE,125,D6,G125F,x,batch1
+G125G,Primary,WT,4,NE,NE,125,D6,G125G,,batch1
+G125H,Primary,WT,4,NE,NE,125,D6,G125H,,batch1
+G125J,Primary,WT,4,NE,NE,125,D6,G125J,x,batch1
+G150H,Primary,WT,4,NE,NE,150,D6,G150H,x,batch1
+M91E,Recurrent,WT,4,NE,NE,76_2,D6,M91E,,batch1
+R189D,Primary,WT,4,NE,NE,189,D7,D189D,,batch1
+R190-1L,Recurrent,WT,4,NE,NE,190_1,D7,NA,,batch1
+R190-1T,Recurrent,WT,4,NE,NE,190_1,D7,NA,,batch1
+R190-1V,Recurrent,WT,4,NE,NE/CE MARGIN,190_1,D7,NA,,batch1
+R191I,Recurrent,WT,4,NE,NE/CE MARGIN,191,D7,NA,,batch1
+R205D1,Recurrent,WT,4,NE,NE/DURA,205,D7,D205D1,,batch1
+R205E,Recurrent,WT,4,NE,NE,205,D7,NA,,batch1
+R217L,Primary,WT,4,NE,NE,217,D7,D217L,,batch1
+R207G,Recurrent,WT,4,NE,NE,207,D7,NA,,batch1
+R207K,Recurrent,WT,4,NE,NE,207,D7,D207K,,batch1
+R207M,Recurrent,WT,4,NE,NE,207,D7,NA,,batch1
+R207N1,Recurrent,WT,4,NE,NE,207,D7,NA,,batch1
+R207O,Recurrent,WT,4,NE,NE,207,D7,NA,x,batch1
+R207P,Recurrent,WT,4,NE,NE,207,D7,NA,,batch1
+R210-1A,Recurrent,WT,4,NE,DURA/NE - NEED TO MOVE ROI MEDIALLY,210_1,D7,D210-1A,,batch1
+R210-1F,Recurrent,WT,4,NE,NE,210_1,D7,D210-1F,,batch1
+R210-1G,Recurrent,WT,4,NE,NE,210_1,D7,D210-1G,,batch1
+R210-1H,Recurrent,WT,4,NE,NE/CE MARGIN,210_1,D7,NA,,batch1
+R210-1K,Recurrent,WT,4,NE,NE/CE MARGIN,210_1,D7,NA,,batch1
+R210-2E,Recurrent,WT,4,NE,NE/CE MARGIN,210_2,D7,NA,x,batch1
+R210-2G,Recurrent,WT,4,NE,NE/CE MARGIN,210_2,D7,NA,x,batch1
+R214-2B,Recurrent,WT,4,NE,NE,214_2,D7,NA,x,batch1
+R214-2C,Recurrent,WT,4,NE,NE,214_2,D7,NA,x,batch1
+R214-2D,Recurrent,WT,4,NE,NE,214_2,D7,NA,,batch1
+R105A,Recurrent,Wt,4,NE,NE.DURA,1,D7,NA,x,batch1
+R105B,Recurrent,Wt,4,NE,NE/DURA,105,D7,NA,x,batch1
+R105F,Recurrent,Wt,4,NE,NE,105,D7,NA,x,batch1
+R105J,Recurrent,Wt,4,NE,NE,105,D7,NA,x,batch1
+R105K,Recurrent,Wt,4,NE,NE/CE MARGIN,105,D7,NA,x,batch1
+R139D,Recurrent,Wt,4,NE,NE/CE MARGIN,139,D7,D139D,,batch1
+R151M,Recurrent,Wt,4,NE,NE,151,D7,D151M,,batch1
+R151N,Recurrent,Wt,4,NE,NE,151,D7,NA,,batch1
+R157A,Recurrent,Wt,4,NE,NE/CE MARGIN DURA,157,D7,D157A,,batch1
+R195G,Recurrent,WT,4,NE,NE,195,D7,D195G,,batch1
+R59-2D,Recurrent,N/A,4,NE,NE,59_2,D7,NA,,batch1
+R59-2E1,Recurrent,N/A,4,NE,NE,59_2,D7,D59-2E1,,batch1
+R59-2G1,Recurrent,N/A,4,NE,NE,59_2,D7,NA,,batch1
+R59-2H,Recurrent,N/A,4,NE,NE/CE MARGIN ADJACENT RESECTION CAVITY,59_2,D7,D59-2H,,batch1
+R59-2I,Recurrent,N/A,4,NE,NE,59_2,D7,D59-2I,,batch1
+R59-2J1,Recurrent,N/A,4,NE,NE,59_2,D7,D59-2J1,,batch1
+R74-2H,Recurrent,Mut,3,NE,NE/CORTEX,74_2,D7,NA,,batch1
+R74-2K,Recurrent,Mut,3,NE,NE/CORTEX,74_2,D7,NA,x,batch1
+R128-2C,Recurrent,Wt,4,NE,NE,128_2,D7,NA,,batch1
+R180-1D,Recurrent,WT,4,NE,NE,180_1,D7,NA,,batch1
+R180-1E,Recurrent,WT,4,NE,NE,180_1,D7,NA,,batch1
+R180-1F,Recurrent,WT,4,NE,NE,180_1,D7,NA,,batch1
+R180-2E,Recurrent,WT,4,NE,NE/CE MARGIN,180_2,D7,NA,,batch1
+R180-2F,Recurrent,WT,4,NE,NE,180_2,D7,NA,,batch1
+R180-2G,Recurrent,WT,4,NE,NE/CE MARGIN,180_2,D7,D180-2G,,batch1
+R180-2K,Recurrent,WT,4,NE,NE,180_2,D7,NA,,batch1
+R199-1B,Primary,wt,4,NE,NE,199_1,D7,NA,x,batch1
+R199-1C,Primary,wt,4,NE,NE,199_1,D7,D199-1C,,batch1
+R199-1D,Primary,wt,4,NE,NE,199_1,D7,D199-1D,,batch1
+R199-1E,Primary,wt,4,NE,NE,199_1,D7,D199-1E,,batch1
+R199-1F,Primary,wt,4,NE,NE,199_1,D7,D199-1F,,batch1
+R199-1G,Primary,wt,4,NE,NE/CE MARGIN,199_1,D7,D199-1G,,batch1
+R199-1H,Primary,wt,4,NE,NE,199_1,D7,D199-1H,,batch1
+R199-2F,Recurrent,wt,4,NE,NE,199_2,D7,NA,,batch1
+R199-2H,Recurrent,wt,4,NE,NE/CE MARGIN,199_2,D7,NA,,batch1
+R199-2J,Recurrent,wt,4,NE,NE (CLOSE TO CE MARGIN),199_2,D7,NA,,batch1
+R33-2C,Recurrent,Mut,3,NE,NE,33_2,D7,NA,,batch1
+R33-2E,Recurrent,Mut,3,NE,NE,33_2,D7,NA,,batch1
+R33-2H,Recurrent,Mut,3,NE,NE,33_2,D7,NA,x,batch1
+R33-2L,Recurrent,Mut,3,NE,NE,33_2,D7,NA,,batch1
+R33-2M,Recurrent,Mut,3,NE,NE,33_2,D7,NA,,batch1
+R99-2B,Recurrent,Mut,4,NE,NE,99_2,D7,NA,x,batch1
+R99-2D,Recurrent,Mut,4,NE,NE,99_2,D7,NA,x,batch1
+R99-2E,Recurrent,Mut,4,NE,NE,99_2,D7,NA,x,batch1
+R99-2H,Recurrent,Mut,4,NE,NE,99_2,D7,NA,x,batch1
+R99-2I,Recurrent,Mut,4,NE,NE,99_2,D7,NA,x,batch1
+R111B,Transformation,Mut,3,NE,NE,111,D7,NA,x,batch1
+R111C,Transformation,Mut,3,NE,NE,111,D7,NA,x,batch1
+R111D,Transformation,Mut,3,NE,NE,111,D7,NA,x,batch1
+R111E,Transformation,Mut,3,NE,NE,111,D7,NA,x,batch1
+R111G,Transformation,Mut,3,NE,NE,111,D7,NA,x,batch1
+R111K,Transformation,Mut,3,NE,NE,111,D7,NA,x,batch1
+R134B,Primary,Mut,3,NE,NE,134,D7,NA,x,batch1
+R134D,Primary,Mut,3,NE,NE,134,D7,NA,x,batch1
+R134F,Primary,Mut,3,NE,NE,134,D7,NA,x,batch1
+R134H,Primary,Mut,3,NE,NE,134,D7,NA,x,batch1
+R134I,Primary,Mut,3,NE,NE,134,D7,NA,x,batch1
+R134J,Primary,Mut,3,NE,NE,134,D7,NA,,batch1
+R134K,Primary,Mut,3,NE,NE,134,D7,NA,x,batch1
+R144-1K,Recurrent,Mut,4,NE,NE,144_1,D7,NA,,batch1
+R144-1L,Recurrent,Mut,4,NE,NE,144_1,D7,NA,,batch1
+R144-2B,Recurrent,Mut,4,NE,NE,144_2,D7,NA,x,batch1
+R144-2C,Recurrent,Mut,4,NE,NE,144_2,D7,NA,x,batch1
+R144-2D,Recurrent,Mut,4,NE,NE,144_2,D7,NA,x,batch1
+R144-2F,Recurrent,Mut,4,NE,NE,144_2,D7,NA,x,batch1
+R144-2G,Recurrent,Mut,4,NE,NE,144_2,D7,NA,x,batch1
+R144-2H,Recurrent,Mut,4,NE,NE,144_2,D7,NA,x,batch1
+R196G,Primary,Mut,3,NE,NE,196,D7,NA,,batch1
+R196I,Primary,Mut,3,NE,NE,196,D7,NA,x,batch1
+R196J,Primary,Mut,3,NE,NE,196,D7,NA,x,batch1
+R204E,Recurrent,Mut,3,NE,ORBIT (outside brain),204,D7,NA,x,batch1
+R204F,Recurrent,Mut,3,NE,NE/DURA,204,D7,NA,,batch1
+R227D,Primary,Mut,2,NE,NE,227,D7,NA,x,batch1
+R227F,Primary,Mut,2,NE,NE,227,D7,NA,x,batch1
+R227H,Primary,Mut,2,NE,NE,227,D7,NA,,batch1
+R227I,Primary,Mut,2,NE,NE,227,D7,NA,x,batch1
+R229B,Primary,Mut,3,NE,NE,229,D7,NA,x,batch1
+R229C,Primary,Mut,3,NE,NE,229,D7,NA,x,batch1
+R229D,Primary,Mut,3,NE,NE/margin normal brain,229,D7,NA,x,batch1
+R229E,Primary,Mut,3,NE,NE/margin normal brain,229,D7,NA,x,batch1
+R230A,Recurrent,Mut,2,NE,NE,230,D7,NA,x,batch1
+R230B,Recurrent,Mut,2,NE,NE,230,D7,NA,x,batch1
+R230C,Recurrent,Mut,2,NE,NE,230,D7,NA,x,batch1
+R230D,Recurrent,Mut,2,NE,NE,230,D7,NA,x,batch1
+R230E,Recurrent,Mut,2,NE,NE,230,D7,NA,x,batch1
+R234B,Primary,Mut,3,NE,NE,234,D7,NA,x,batch1
+R234C,Primary,Mut,3,NE,NE,234,D7,NA,x,batch1
+R234D,Primary,Mut,3,NE,NE,234,D7,NA,x,batch1
+R234E,Primary,Mut,3,NE,NE,234,D7,NA,x,batch1
+R234F,Primary,Mut,3,NE,NE,234,D7,NA,x,batch1
+R234G,Primary,Mut,3,NE,NE,234,D7,NA,x,batch1
+R234H,Primary,Mut,3,NE,NE,234,D7,NA,,batch1
+R234I,Primary,Mut,3,NE,NE,234,D7,NA,x,batch1
+G122O,Primary,WT,4,???,???,122,D6,G122O,,batch3
+M91J,Recurrent,WT,4,???,???,76_2,D6,M91J,x,batch3
+G73G,Primary,WT,4,CE,NEC,73,D6,G73G,,batch3
+G117L,Primary,WT,4,CE,NEC,117,D6,G117L,x,batch3
+G133D,Primary,WT,4,CE,CE,133,D6,G133D,x,batch3
+G133H,Primary,WT,4,CE,NEC,133,D6,G133H,x,batch3
+M74H,Recurrent,WT,4,CE,CE,44_2,D6,M74H,,batch3
+R217E,Primary,WT,4,CE,NEC,217,D7,D217E,,batch3
+R105H,Recurrent,Wt,4,CE,NEC,105,D7,NA,x,batch3
+R199-2K,Recurrent,wt,4,CE,CE,199_2,D7,NA,,batch3
+R99-1B,Recurrent,Mut,4,CE,CE,99_1,D7,NA,,batch3
+R99-1C,Recurrent,Mut,4,CE,CE,99_1,D7,NA,,batch3
+R144-1E,Recurrent,Mut,4,CE,CE,144_1,D7,NA,,batch3
+R204C,Recurrent,Mut,3,CE,CE/NE MARGIN,204,D7,NA,,batch3
+G122D,Primary,WT,4,NE,NE,122,D6,G122D,,batch3
+G122K,Primary,WT,4,NE,NE,122,D6,G122K,,batch3
+G135A,Primary,WT,4,NE,NE,135,D6,G135A,x,batch3
+G150A,Primary,WT,4,NE,NE,150,D6,G150A,,batch3
+M91B,Recurrent,WT,4,NE,NE,76_2,D6,M91B,,batch3
+R191K,Recurrent,WT,4,NE,NE/CE MARGIN,191,D7,NA,,batch3
+R191M,Recurrent,WT,4,NE,NE,191,D7,NA,,batch3
+R205C,Recurrent,WT,4,NE,NE/DURA,205,D7,NA,,batch3
+R207L1,Recurrent,WT,4,NE,NE,207,D7,NA,,batch3
+R210-2I,Recurrent,WT,4,NE,NE/CE MARGIN,210_2,D7,NA,,batch3
+R210-2J,Recurrent,WT,4,NE,NE/CE MARGIN,210_2,D7,NA,x,batch3
+R74-2I,Recurrent,Mut,3,NE,NE/CORTEX,74_2,D7,NA,,batch3
+R74-2L,Recurrent,Mut,3,NE,NE/CORTEX,74_2,D7,NA,,batch3
+R74-2N,Recurrent,Mut,3,NE,NE/CORTEX,74_2,D7,NA,,batch3
+R74-2O,Recurrent,Mut,3,NE,NE/CORTEX,74_2,D7,NA,,batch3
+R180-1I,Recurrent,WT,4,NE,NE,180_1,D7,NA,,batch3
+R180-1J,Recurrent,WT,4,NE,NE (NEXT TO DURA),180_1,D7,NA,,batch3
+R180-1K,Recurrent,WT,4,NE,NE,180_1,D7,NA,,batch3
+R199-2E,Recurrent,wt,4,NE,NE,199_2,D7,NA,,batch3
+R33-2J,Recurrent,Mut,3,NE,NE,33_2,D7,NA,,batch3
+R99-2G,Recurrent,Mut,4,NE,NE,99_2,D7,NA,,batch3
+R144-1J,Recurrent,Mut,4,NE,NE,144_1,D7,NA,x,batch3
+R147B,Primary,Mut,4,NE,NE,147,D7,NA,x,batch3
+R196D,Primary,Mut,3,NE,NE,196,D7,NA,,batch3
+R218H,Primary,mut,2,NE,NE,218,D7,NA,,batch3
+R218I,Primary,mut,2,NE,NE,218,D7,NA,,batch3
+R227B,Primary,Mut,2,NE,NE,227,D7,NA,,batch3
+R227E,Primary,Mut,2,NE,NE,227,D7,NA,,batch3
+G12B,Recurrent,wild type,NA,CE,CE,G12,NA,G12B,,batch2
+G12C,Recurrent,wild type,NA,CE,CE,G12,NA,G12C,,batch2
+G12E,Recurrent,wild type,NA,CE,CE,G12,NA,G12E,,batch2
+G23B,Primary,wild type,NA,CE,CE,G23,NA,G23B,,batch2
+G23B1,Recurrent,wild type,NA,CE,CE,G23,NA,G23B1,,batch2
+G23C,Recurrent,wild type,NA,CE,CE,G23,NA,G23C,,batch2
+G23F,Recurrent,wild type,NA,CE,CE,G23,NA,G23F,,batch2
+G29C,Primary,wild type,NA,NE,NE,G29,NA,G29C,,batch2
+G29E,Primary,wild type,NA,CE,CE,G29,NA,G29E,,batch2
+G29G,Primary,wild type,NA,NE,NE,G29,NA,G29G,,batch2
+G29H,Primary,wild type,NA,CE,CE,G29,NA,G29H,,batch2
+G35C,Primary,wild type,NA,CE,CE,G35,NA,G35C,,batch2
+G35D,Primary,wild type,NA,NE,NE,G35,NA,G35D,,batch2
+G35E,Primary,wild type,NA,NE,NE,G35,NA,G35E,,batch2
+G37H,Recurrent,wild type,NA,CE,CE,G37,NA,G37H,,batch2
+G37J,Recurrent,wild type,NA,CE,CE,G37,NA,G37J,,batch2
+G39F,Primary,wild type,NA,NE,NE,G39,NA,G39F,,batch2
+G39G,Primary,wild type,NA,NE,NE,G39,NA,G39G,,batch2
+G40A,Primary,wild type,NA,CE,CE,G40,NA,G40A,,batch2
+G40D,Primary,wild type,NA,CE,CE,G40,NA,G40D,,batch2
+G40E,Primary,wild type,NA,CE,CE,G40,NA,G40E,,batch2
+G40F,Primary,wild type,NA,CE,CE,G40,NA,G40F,,batch2
+G40I,Primary,wild type,NA,NE,NE,G40,NA,G40I,,batch2
+G40K,Primary,wild type,NA,CE,CE,G40,NA,G40K,,batch2
+G40M,Primary,wild type,NA,NE,NE,G40,NA,G40M,,batch2
+G44A,Primary,wild type,NA,CE,CE,G44,NA,G44A,,batch2
+G44F,Primary,wild type,NA,CE,CE,G44,NA,G44F,,batch2
+G44G,Primary,wild type,NA,CE,CE,G44,NA,G44G,,batch2
+G45H,Primary,wild type,NA,CE,CE,G45,NA,G45H,,batch2
+G45K,Primary,wild type,NA,CE,CE,G45,NA,G45K,,batch2
+G45L,Primary,wild type,NA,CE,CE,G45,NA,G45L,,batch2
+G45M,Primary,wild type,NA,CE,CE,G45,NA,G45M,,batch2
+G52B,Primary,wild type,NA,NE,NE,G52,NA,G52B,,batch2
+G52C,Primary,wild type,NA,NE,NE,G52,NA,G52C,,batch2
+G52D,Primary,wild type,NA,CE,CE,G52,NA,G52D,,batch2
+G52E,Primary,wild type,NA,CE,CE,G52,NA,G52E,,batch2
+G52F,Primary,wild type,NA,CE,CE,G52,NA,G52F,,batch2
+G52H,Primary,wild type,NA,CE,CE,G52,NA,G52H,,batch2
+G52J,Primary,wild type,NA,CE,CE,G52,NA,G52J,,batch2
+G53A,Recurrent,wild type,NA,CE,CE,G53,NA,G53A,,batch2
+G53B,Recurrent,wild type,NA,NE,NE,G53,NA,G53B,,batch2
+G53C,Recurrent,wild type,NA,NE,NE,G53,NA,G53C,,batch2
+G53D,Recurrent,wild type,NA,NE,NE,G53,NA,G53D,,batch2
+G53F,Recurrent,wild type,NA,NE,NE,G53,NA,G53F,,batch2
+G53J,Recurrent,wild type,NA,NE,NE,G53,NA,G53J,,batch2
+G59B,Primary,wild type,NA,NE,NE,G59,NA,G59B,,batch2
+G59E,Primary,wild type,NA,CE,CE,G59,NA,G59E,,batch2
+G59F,Primary,wild type,NA,CE,CE,G59,NA,G59F,,batch2
+G59H,Primary,wild type,NA,CE,CE,G59,NA,G59H,,batch2
+G59I,Primary,wild type,NA,CE,CE,G59,NA,G59I,,batch2
+G59L,Primary,wild type,NA,CE,CE,G59,NA,G59L,,batch2
+G5B,Primary,wild type,NA,CE,CE,G05,NA,G5B,,batch2
+G5C,Primary,wild type,NA,NE,NE,G05,NA,G5C,,batch2
+G5D,Primary,wild type,NA,CE,CE,G05,NA,G5D,,batch2
+G5F,Primary,wild type,NA,NE,NE,G05,NA,G5F,,batch2
+G5G,Primary,wild type,NA,CE,CE,G05,NA,G5G,,batch2
+G5I,Primary,wild type,NA,CE,CE,G05,NA,G5I,,batch2
+G65A,Primary,wild type,NA,CE,CE,G65,NA,G65A,,batch2
+G65C,Primary,wild type,NA,CE,CE,G65,NA,G65C,,batch2
+G67C,Primary,wild type,NA,CE,CE,G67,NA,G67C,,batch2
+G67F,Primary,wild type,NA,CE,CE,G67,NA,G67F,,batch2
+G72A,Primary,wild type,NA,CE,CE,G72,NA,G72A,,batch2
+G77B,Primary,wild type,NA,CE,CE,G77,NA,G77B,,batch2
+G77C,Primary,wild type,NA,CE,CE,G77,NA,G77C,,batch2
+G77F,Primary,wild type,NA,CE,CE,G77,NA,G77F,,batch2
+G77H,Primary,wild type,NA,CE,CE,G77,NA,G77H,,batch2
+G77I,Primary,wild type,NA,CE,CE,G77,NA,G77I,,batch2
+G77J,Primary,wild type,NA,CE,CE,G77,NA,G77J,,batch2
+G85I,Primary,wild type,NA,NE,NE,G85,NA,G85I,,batch2
+G87A,Primary,wild type,NA,NE,NE,G87,NA,G87A,,batch2
+G87J,Primary,wild type,NA,NE,NE,G87,NA,G87J,,batch2
+G8A,Primary,wild type,NA,NE,NE,G08,NA,G8A,,batch2
+G8C,Primary,wild type,NA,CE,CE,G08,NA,G8C,,batch2
+G8G,Primary,wild type,NA,NE,NE,G08,NA,G8G,,batch2
+G90D,Primary,wild type,NA,CE,CE,G90,NA,G90D,,batch2
+G95E,Primary,wild type,NA,NE,NE,G95,NA,G95E,,batch2
+G95F,Primary,wild type,NA,NE,NE,G95,NA,G95F,,batch2
+G97E,Primary,wild type,NA,CE,CE,G97,NA,G97E,,batch2
+G97H,Primary,wild type,NA,CE,CE,G97,NA,G97H,,batch2
+G97I,Primary,wild type,NA,CE,CE,G97,NA,G97I,,batch2
+M20A,Primary,wild type,NA,CE,CE,G28,NA,M20A,,batch2
+M20B,Primary,wild type,NA,CE,CE,G28,NA,M20B,,batch2
+M20C,Primary,wild type,NA,CE,CE,G28,NA,M20C,,batch2
+M20D,Primary,wild type,NA,CE,CE,G28,NA,M20D,,batch2
+M24B,Primary,wild type,NA,CE,CE,G28,NA,M24B,,batch2
+M24C,Primary,wild type,NA,NE,NE,G28,NA,M24C,,batch2
+M24E,Primary,wild type,NA,NE,NE,G28,NA,M24E,,batch2
+M24F,Primary,wild type,NA,CE,CE,G28,NA,M24F,,batch2
+M95B,Recurrent,wild type,NA,CE,CE,G42,NA,M95B,,batch2
+M95C,Recurrent,wild type,NA,CE,CE,G42,NA,M95C,,batch2
+M95F,Recurrent,wild type,NA,NE,NE,G42,NA,M95F,,batch2
+P059_112194,Primary,wild type,NA,NE,NE,P059,NA,P059_112194,,batch2
+P059_112327,Primary,wild type,NA,NE,NE,P059,NA,P059_112327,,batch2
+P108_358411,Primary,wild type,NA,CE,CE,P108,NA,P108_358411,,batch2
+P129_375688,Primary,wild type,NA,NE,NE,P129,NA,P129_375688,,batch2
+P129_375970,Primary,wild type,NA,NE,NE,P129,NA,P129_375970,,batch2
+P129_375973,Primary,wild type,NA,NE,NE,P129,NA,P129_375973,,batch2
+P129_376050,Primary,wild type,NA,NE,NE,P129,NA,P129_376050,,batch2
+P129_376085,Primary,wild type,NA,NE,NE,P129,NA,P129_376085,,batch2
+P129_376165,Primary,wild type,NA,NE,NE,P129,NA,P129_376165,,batch2
+P129_376176,Primary,wild type,NA,NE,NE,P129,NA,P129_376176,,batch2
+P129_376304,Primary,wild type,NA,CE,CE,P129,NA,P129_376304,,batch2
+P129_376322,Primary,wild type,NA,NE,NE,P129,NA,P129_376322,,batch2
+P152_374528,Primary,wild type,NA,CE,CE,P152,NA,P152_374528,,batch2
+P152_387720,Primary,wild type,NA,CE,CE,P152,NA,P152_387720,,batch2
+P152_387930,Primary,wild type,NA,NE,NE,P152,NA,P152_387930,,batch2
+P152_387947,Primary,wild type,NA,CE,CE,P152,NA,P152_387947,,batch2
+P152_387979,Primary,wild type,NA,CE,CE,P152,NA,P152_387979,,batch2
+P152_388519,Primary,wild type,NA,CE,CE,P152,NA,P152_388519,,batch2
+P152_388615,Primary,wild type,NA,CE,CE,P152,NA,P152_388615,,batch2
+P184_285504,Primary,wild type,NA,CE,CE,P184,NA,P184_285504,,batch2
+P184_285527,Primary,wild type,NA,NE,NE,P184,NA,P184_285527,,batch2
+P190_359227,Primary,wild type,NA,CE,CE,P190,NA,P190_359227,,batch2
+P190_359261,Primary,wild type,NA,NE,NE,P190,NA,P190_359261,,batch2
+P190_359287,Primary,wild type,NA,NE,NE,P190,NA,P190_359287,,batch2
+P190_359313,Primary,wild type,NA,NE,NE,P190,NA,P190_359313,,batch2
+P190_359388,Primary,wild type,NA,NE,NE,P190,NA,P190_359388,,batch2
+P191_41114,Primary,wild type,NA,NE,NE,P191,NA,P191_41114,,batch2
+P191_41126,Primary,wild type,NA,CE,CE,P191,NA,P191_41126,,batch2
+P191_41133,Primary,wild type,NA,NE,NE,P191,NA,P191_41133,,batch2
+P191_42407,Primary,wild type,NA,CE,CE,P191,NA,P191_42407,,batch2
+P232_388048,Primary,wild type,NA,CE,CE,P232,NA,P232_388048,,batch2
+P232_388050,Primary,wild type,NA,CE,CE,P232,NA,P232_388050,,batch2
+P232_388140,Primary,wild type,NA,CE,CE,P232,NA,P232_388140,,batch2
+P232_388151,Primary,wild type,NA,CE,CE,P232,NA,P232_388151,,batch2
+P241_387864,Primary,wild type,NA,CE,CE,P241,NA,P241_387864,,batch2
+P241_387872,Primary,wild type,NA,CE,CE,P241,NA,P241_387872,,batch2
+R59-2B1,Recurrent,N/A,NA,CE,CE,59_2,NA,R59-2B1,,batch2
+R59-2D,Recurrent,N/A,NA,NE,NE,59_2,NA,R59-2D,,batch2
+R59-2E1,Recurrent,N/A,NA,NE,NE,59_2,NA,R59-2E1,,batch2
+R59-2G1,Recurrent,N/A,NA,NE,NE,59_2,NA,R59-2G1,,batch2
+R59-2H,Recurrent,N/A,NA,NE,NE,59_2,NA,R59-2H,,batch2
+R59-2I,Recurrent,N/A,NA,NE,NE,59_2,NA,R59-2I,,batch2
+R59-2J1,Recurrent,N/A,NA,NE,NE,59_2,NA,R59-2J1,,batch2
+R74-3B,Recurrent,Mut,NA,CE,CE,74_3,NA,R74-3B,,batch2
+R74-3C,Recurrent,Mut,NA,CE,CE,74_3,NA,R74-3C,,batch2
+R74-3D,Recurrent,Mut,NA,CE,CE,74_3,NA,R74-3D,,batch2
+R74-3E,Recurrent,Mut,NA,CE,CE,74_3,NA,R74-3E,,batch2
+R74-3F,Recurrent,Mut,NA,CE,CE,74_3,NA,R74-3F,,batch2
+R74-3G,Recurrent,Mut,NA,CE,CE,74_3,NA,R74-3G,,batch2
+R74-3H,Recurrent,Mut,NA,CE,CE,74_3,NA,R74-3H,,batch2
+R74-3I,Recurrent,Mut,NA,CE,CE,74_3,NA,R74-3I,,batch2
+R99-2C,Recurrent,Mut,NA,CE,CE,99_2,NA,R99-2C,,batch2
+R99-2F,Recurrent,Mut,NA,CE,CE,99_2,NA,R99-2F,,batch2
+R144-1B,Recurrent,Mut,NA,CE,CE,144_1,NA,R144-1B,,batch2
+R144-1D,Recurrent,Mut,NA,CE,CE,144_1,NA,R144-1D,,batch2
+R144-1H,Recurrent,Mut,NA,CE,CE,144_1,NA,R144-1H,,batch2
+R144-1I,Recurrent,Mut,NA,CE,CE,144_1,NA,R144-1I,,batch2
+R144-2E,Recurrent,Mut,NA,CE,CE,144_2,NA,R144-2E,,batch2
+R147G,Primary,Mut,NA,CE,CE,147,NA,R147G,,batch2
+R204B,Recurrent,Mut,NA,CE,CE,204,NA,R204B,,batch2
+R204G,Recurrent,Mut,NA,CE,CE,204,NA,R204G,,batch2
+R204H,Recurrent,Mut,NA,CE,CE,204,NA,R204H,,batch2
+R204I,Recurrent,Mut,NA,CE,CE,204,NA,R204I,,batch2
+R74-2H,Recurrent,Mut,NA,NE,NE,74_2,NA,R74-2H,,batch2
+R74-2K,Recurrent,Mut,NA,NE,NE,74_2,NA,R74-2K,,batch2
+R33-2C,Recurrent,Mut,NA,NE,NE,33_2,NA,R33-2C,,batch2
+R33-2E,Recurrent,Mut,NA,NE,NE,33_2,NA,R33-2E,,batch2
+R33-2H,Recurrent,Mut,NA,NE,NE,33_2,NA,R33-2H,,batch2
+R33-2L,Recurrent,Mut,NA,NE,NE,33_2,NA,R33-2L,,batch2
+R33-2M,Recurrent,Mut,NA,NE,NE,33_2,NA,R33-2M,,batch2
+R99-2B,Recurrent,Mut,NA,NE,NE,99_2,NA,R99-2B,,batch2
+R99-2D,Recurrent,Mut,NA,NE,NE,99_2,NA,R99-2D,,batch2
+R99-2E,Recurrent,Mut,NA,NE,NE,99_2,NA,R99-2E,,batch2
+R99-2H,Recurrent,Mut,NA,NE,NE,99_2,NA,R99-2H,,batch2
+R99-2I,Recurrent,Mut,NA,NE,NE,99_2,NA,R99-2I,,batch2
+R111B,Transformation,Mut,NA,NE,NE,111,NA,R111B,,batch2
+R111C,Transformation,Mut,NA,NE,NE,111,NA,R111C,,batch2
+R111D,Transformation,Mut,NA,NE,NE,111,NA,R111D,,batch2
+R111E,Transformation,Mut,NA,NE,NE,111,NA,R111E,,batch2
+R111G,Transformation,Mut,NA,NE,NE,111,NA,R111G,,batch2
+R111K,Transformation,Mut,NA,NE,NE,111,NA,R111K,,batch2
+R134B,Primary,Mut,NA,NE,NE,134,NA,R134B,,batch2
+R134D,Primary,Mut,NA,NE,NE,134,NA,R134D,,batch2
+R134F,Primary,Mut,NA,NE,NE,134,NA,R134F,,batch2
+R134H,Primary,Mut,NA,NE,NE,134,NA,R134H,,batch2
+R134I,Primary,Mut,NA,NE,NE,134,NA,R134I,,batch2
+R134J,Primary,Mut,NA,NE,NE,134,NA,R134J,,batch2
+R134K,Primary,Mut,NA,NE,NE,134,NA,R134K,,batch2
+R144-1K,Recurrent,Mut,NA,NE,NE,144_1,NA,R144-1K,,batch2
+R144-1L,Recurrent,Mut,NA,NE,NE,144_1,NA,R144-1L,,batch2
+R144-2B,Recurrent,Mut,NA,NE,NE,144_2,NA,R144-2B,,batch2
+R144-2C,Recurrent,Mut,NA,NE,NE,144_2,NA,R144-2C,,batch2
+R144-2D,Recurrent,Mut,NA,NE,NE,144_2,NA,R144-2D,,batch2
+R144-2F,Recurrent,Mut,NA,NE,NE,144_2,NA,R144-2F,,batch2
+R144-2G,Recurrent,Mut,NA,NE,NE,144_2,NA,R144-2G,,batch2
+R144-2H,Recurrent,Mut,NA,NE,NE,144_2,NA,R144-2H,,batch2
+R196G,Primary,Mut,NA,NE,NE,196,NA,R196G,,batch2
+R196I,Primary,Mut,NA,NE,NE,196,NA,R196I,,batch2
+R196J,Primary,Mut,NA,NE,NE,196,NA,R196J,,batch2
+R204E,Recurrent,Mut,NA,NE,NE,204,NA,R204E,,batch2
+R204F,Recurrent,Mut,NA,NE,NE,204,NA,R204F,,batch2
+R227D,Primary,Mut,NA,NE,NE,227,NA,R227D,,batch2
+R227F,Primary,Mut,NA,NE,NE,227,NA,R227F,,batch2
+R227H,Primary,Mut,NA,NE,NE,227,NA,R227H,,batch2
+R227I,Primary,Mut,NA,NE,NE,227,NA,R227I,,batch2
+R229B,Primary,Mut,NA,NE,NE,229,NA,R229B,,batch2
+R229C,Primary,Mut,NA,NE,NE,229,NA,R229C,,batch2
+R229D,Primary,Mut,NA,NE,NE,229,NA,R229D,,batch2
+R229E,Primary,Mut,NA,NE,NE,229,NA,R229E,,batch2
+R230A,Recurrent,Mut,NA,NE,NE,230,NA,R230A,,batch2
+R230B,Recurrent,Mut,NA,NE,NE,230,NA,R230B,,batch2
+R230C,Recurrent,Mut,NA,NE,NE,230,NA,R230C,,batch2
+R230D,Recurrent,Mut,NA,NE,NE,230,NA,R230D,,batch2
+R230E,Recurrent,Mut,NA,NE,NE,230,NA,R230E,,batch2
+R234B,Primary,Mut,NA,NE,NE,234,NA,R234B,,batch2
+R234C,Primary,Mut,NA,NE,NE,234,NA,R234C,,batch2
+R234D,Primary,Mut,NA,NE,NE,234,NA,R234D,,batch2
+R234E,Primary,Mut,NA,NE,NE,234,NA,R234E,,batch2
+R234F,Primary,Mut,NA,NE,NE,234,NA,R234F,,batch2
+R234G,Primary,Mut,NA,NE,NE,234,NA,R234G,,batch2
+R234H,Primary,Mut,NA,NE,NE,234,NA,R234H,,batch2
+R234I,Primary,Mut,NA,NE,NE,234,NA,R234I,,batch2
+R99-1B,Recurrent,Mut,NA,CE,CE,99_1,NA,R99-1B,,batch2
+R99-1C,Recurrent,Mut,NA,CE,CE,99_1,NA,R99-1C,,batch2
+R144-1E,Recurrent,Mut,NA,CE,CE,144_1,NA,R144-1E,,batch2
+R204C,Recurrent,Mut,NA,CE,CE,204,NA,R204C,,batch2
+R74-2I,Recurrent,Mut,NA,NE,NE,74_2,NA,R74-2I,,batch2
+R74-2L,Recurrent,Mut,NA,NE,NE,74_2,NA,R74-2L,,batch2
+R74-2N,Recurrent,Mut,NA,NE,NE,74_2,NA,R74-2N,,batch2
+R74-2O,Recurrent,Mut,NA,NE,NE,74_2,NA,R74-2O,,batch2
+R33-2J,Recurrent,Mut,NA,NE,NE,33_2,NA,R33-2J,,batch2
+R99-2G,Recurrent,Mut,NA,NE,NE,99_2,NA,R99-2G,,batch2
+R144-1J,Recurrent,Mut,NA,NE,NE,144_1,NA,R144-1J,,batch2
+R147B,Primary,Mut,NA,NE,NE,147,NA,R147B,,batch2
+R196D,Primary,Mut,NA,NE,NE,196,NA,R196D,,batch2
+R218H,Primary,mut,NA,NE,NE,218,NA,R218H,,batch2
+R218I,Primary,mut,NA,NE,NE,218,NA,R218I,,batch2
+R227B,Primary,Mut,NA,NE,NE,227,NA,R227B,,batch2
+R227E,Primary,Mut,NA,NE,NE,227,NA,R227E,,batch2

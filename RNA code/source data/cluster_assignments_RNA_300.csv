@@ -1,0 +1,301 @@
+RNAseq_ID,Primary.Recurrent,Annotation,Glio.,IDH,batch,cluster,TCGA_Cluster,Cluster,patient,TCGA_cluster_by_sample,GPM_cluster_by_sample
+G108E,Primary,CE,108,WT,batch1,5,Mesenchymal,MTC,108,Classical,GPM
+G117B,Primary,CE,117,WT,batch1,2,Proneural,PPR,117,Proneural,GPM
+G117D,Primary,CE,117,WT,batch1,2,Proneural,PPR,117,Proneural,GPM
+G117F,Primary,CE,117,WT,batch1,2,Proneural,PPR,117,Proneural,GPM
+G117H,Primary,CE,117,WT,batch1,2,Proneural,PPR,117,Proneural,GPM
+G117I,Primary,CE,117,WT,batch1,2,Proneural,PPR,117,Proneural,MTC
+G117J,Primary,CE,117,WT,batch1,2,Proneural,PPR,117,Proneural,MTC
+G117K,Primary,CE,117,WT,batch1,2,Proneural,PPR,117,Proneural,MTC
+G117L,Primary,CE,117,WT,batch3,2,Proneural,PPR,117,Proneural,MTC
+G122B,Primary,NE,122,WT,batch1,3,Classical,PPR,122,Classical,GPM
+G122D,Primary,NE,122,WT,batch3,3,Classical,PPR,122,Classical,MTC
+G122F,Primary,NE,122,WT,batch1,4,Neural,NEU,122,Classical,NEU
+G122K,Primary,NE,122,WT,batch3,4,Neural,NEU,122,Neural,NEU
+G125C,Primary,NE,125,WT,batch1,1,Classical,GPM,125,Classical,GPM
+G125E,Primary,NE,125,WT,batch1,1,Classical,GPM,125,Classical,GPM
+G125F,Primary,NE,125,WT,batch1,3,Classical,PPR,125,Classical,GPM
+G125G,Primary,NE,125,WT,batch1,3,Classical,PPR,125,Classical,GPM
+G125H,Primary,NE,125,WT,batch1,3,Classical,PPR,125,Classical,GPM
+G125J,Primary,NE,125,WT,batch1,3,Classical,PPR,125,Classical,GPM
+G12B,Recurrent,CE,G12,wild type,batch2,1,Classical,GPM,G12,Classical,GPM
+G12C,Recurrent,CE,G12,wild type,batch2,1,Classical,GPM,G12,Classical,GPM
+G12E,Recurrent,CE,G12,wild type,batch2,1,Classical,GPM,G12,Classical,GPM
+G132B,Primary,CE,132,WT,batch1,2,Proneural,PPR,132,Classical,GPM
+G133D,Primary,CE,133,WT,batch3,7,Mesenchymal,GPM,133,Classical,MTC
+G133H,Primary,CE,133,WT,batch3,5,Mesenchymal,MTC,133,Mesenchymal,GPM
+G135A,Primary,NE,135,WT,batch3,6,Mesenchymal,GPM,135,Classical,GPM
+G135I,Primary,CE,135,WT,batch1,1,Classical,GPM,135,Classical,GPM
+G146B,Recurrent,CE,146,WT,batch1,7,Mesenchymal,GPM,146,Classical,GPM
+G146G,Recurrent,CE,146,WT,batch1,7,Mesenchymal,GPM,146,Classical,GPM
+G148I,Primary,CE,148,WT,batch1,1,Classical,GPM,148,Classical,GPM
+G148L,Primary,CE,148,WT,batch1,3,Classical,PPR,148,Classical,GPM
+G150A,Primary,NE,150,WT,batch3,7,Mesenchymal,GPM,150,Classical,MTC
+G150H,Primary,NE,150,WT,batch1,7,Mesenchymal,GPM,150,Classical,MTC
+G23B,Primary,CE,G23,wild type,batch2,1,Classical,GPM,G23,Proneural,GPM
+G23B1,Recurrent,CE,G23,wild type,batch2,2,Proneural,PPR,G23,Proneural,MTC
+G23C,Recurrent,CE,G23,wild type,batch2,2,Proneural,PPR,G23,Proneural,MTC
+G23F,Recurrent,CE,G23,wild type,batch2,2,Proneural,PPR,G23,Proneural,MTC
+G29C,Primary,NE,G29,wild type,batch2,1,Classical,GPM,G29,Classical,NEU
+G29E,Primary,CE,G29,wild type,batch2,3,Classical,PPR,G29,Classical,NEU
+G29G,Primary,NE,G29,wild type,batch2,1,Classical,GPM,G29,Classical,GPM
+G29H,Primary,CE,G29,wild type,batch2,1,Classical,GPM,G29,Classical,NEU
+G35C,Primary,CE,G35,wild type,batch2,1,Classical,GPM,G35,Mesenchymal,GPM
+G35D,Primary,NE,G35,wild type,batch2,1,Classical,GPM,G35,Classical,GPM
+G35E,Primary,NE,G35,wild type,batch2,1,Classical,GPM,G35,Mesenchymal,GPM
+G37H,Recurrent,CE,G37,wild type,batch2,2,Proneural,PPR,G37,Proneural,GPM
+G37J,Recurrent,CE,G37,wild type,batch2,2,Proneural,PPR,G37,Proneural,PPR
+G39F,Primary,NE,G39,wild type,batch2,4,Neural,NEU,G39,Classical,NEU
+G39G,Primary,NE,G39,wild type,batch2,4,Neural,NEU,G39,Classical,NEU
+G40A,Primary,CE,G40,wild type,batch2,5,Mesenchymal,MTC,G40,Classical,MTC
+G40D,Primary,CE,G40,wild type,batch2,1,Classical,GPM,G40,Classical,GPM
+G40E,Primary,CE,G40,wild type,batch2,4,Neural,NEU,G40,Neural,NEU
+G40F,Primary,CE,G40,wild type,batch2,1,Classical,GPM,G40,Classical,GPM
+G40I,Primary,NE,G40,wild type,batch2,1,Classical,GPM,G40,Classical,GPM
+G40K,Primary,CE,G40,wild type,batch2,1,Classical,GPM,G40,Classical,GPM
+G40M,Primary,NE,G40,wild type,batch2,1,Classical,GPM,G40,Classical,GPM
+G44A,Primary,CE,G44,wild type,batch2,1,Classical,GPM,G44,Classical,GPM
+G44F,Primary,CE,G44,wild type,batch2,1,Classical,GPM,G44,Classical,GPM
+G44G,Primary,CE,G44,wild type,batch2,5,Mesenchymal,MTC,G44,Classical,GPM
+G45H,Primary,CE,G45,wild type,batch2,1,Classical,GPM,G45,Classical,GPM
+G45K,Primary,CE,G45,wild type,batch2,2,Proneural,PPR,G45,Classical,GPM
+G45L,Primary,CE,G45,wild type,batch2,1,Classical,GPM,G45,Classical,GPM
+G45M,Primary,CE,G45,wild type,batch2,1,Classical,GPM,G45,Classical,GPM
+G51A,Primary,CE,51,WT,batch1,2,Proneural,PPR,51,Proneural,PPR
+G51C,Primary,CE,51,WT,batch1,2,Proneural,PPR,51,Proneural,MTC
+G52B,Primary,NE,G52,wild type,batch2,4,Neural,NEU,G52,Neural,NEU
+G52C,Primary,NE,G52,wild type,batch2,6,Mesenchymal,GPM,G52,Neural,NEU
+G52D,Primary,CE,G52,wild type,batch2,2,Proneural,PPR,G52,Proneural,GPM
+G52E,Primary,CE,G52,wild type,batch2,2,Proneural,PPR,G52,Proneural,MTC
+G52F,Primary,CE,G52,wild type,batch2,4,Neural,NEU,G52,Neural,NEU
+G52H,Primary,CE,G52,wild type,batch2,2,Proneural,PPR,G52,Proneural,MTC
+G52J,Primary,CE,G52,wild type,batch2,6,Mesenchymal,GPM,G52,Proneural,GPM
+G53A,Recurrent,CE,G53,wild type,batch2,7,Mesenchymal,GPM,G53,Mesenchymal,GPM
+G53B,Recurrent,NE,G53,wild type,batch2,7,Mesenchymal,GPM,G53,Classical,NEU
+G53C,Recurrent,NE,G53,wild type,batch2,4,Neural,NEU,G53,Neural,NEU
+G53D,Recurrent,NE,G53,wild type,batch2,2,Proneural,PPR,G53,Classical,GPM
+G53F,Recurrent,NE,G53,wild type,batch2,7,Mesenchymal,GPM,G53,Classical,GPM
+G53J,Recurrent,NE,G53,wild type,batch2,7,Mesenchymal,GPM,G53,Classical,MTC
+G59B,Primary,NE,G59,wild type,batch2,4,Neural,NEU,G59,Classical,GPM
+G59E,Primary,CE,G59,wild type,batch2,4,Neural,NEU,G59,Classical,GPM
+G59F,Primary,CE,G59,wild type,batch2,4,Neural,NEU,G59,Classical,MTC
+G59H,Primary,CE,G59,wild type,batch2,4,Neural,NEU,G59,Classical,GPM
+G59I,Primary,CE,G59,wild type,batch2,7,Mesenchymal,GPM,G59,Classical,GPM
+G59L,Primary,CE,G59,wild type,batch2,4,Neural,NEU,G59,Classical,GPM
+G5B,Primary,CE,G05,wild type,batch2,1,Classical,GPM,G05,Classical,GPM
+G5C,Primary,NE,G05,wild type,batch2,1,Classical,GPM,G05,Classical,GPM
+G5D,Primary,CE,G05,wild type,batch2,1,Classical,GPM,G05,Classical,GPM
+G5F,Primary,NE,G05,wild type,batch2,1,Classical,GPM,G05,Classical,GPM
+G5G,Primary,CE,G05,wild type,batch2,1,Classical,GPM,G05,Classical,GPM
+G5I,Primary,CE,G05,wild type,batch2,1,Classical,GPM,G05,Classical,GPM
+G65A,Primary,CE,G65,wild type,batch2,7,Mesenchymal,GPM,G65,Mesenchymal,GPM
+G65C,Primary,CE,G65,wild type,batch2,3,Classical,PPR,G65,Classical,GPM
+G67C,Primary,CE,G67,wild type,batch2,7,Mesenchymal,GPM,G67,Neural,NEU
+G67F,Primary,CE,G67,wild type,batch2,5,Mesenchymal,MTC,G67,Classical,GPM
+G72A,Primary,CE,G72,wild type,batch2,5,Mesenchymal,MTC,G72,Mesenchymal,GPM
+G73G,Primary,CE,73,WT,batch3,7,Mesenchymal,GPM,73,Unclassified,MTC
+G77B,Primary,CE,G77,wild type,batch2,2,Proneural,PPR,G77,Proneural,MTC
+G77C,Primary,CE,G77,wild type,batch2,2,Proneural,PPR,G77,Classical,MTC
+G77F,Primary,CE,G77,wild type,batch2,2,Proneural,PPR,G77,Proneural,MTC
+G77H,Primary,CE,G77,wild type,batch2,2,Proneural,PPR,G77,Proneural,MTC
+G77I,Primary,CE,G77,wild type,batch2,2,Proneural,PPR,G77,Proneural,MTC
+G77J,Primary,CE,G77,wild type,batch2,5,Mesenchymal,MTC,G77,Classical,MTC
+G85I,Primary,NE,G85,wild type,batch2,3,Classical,PPR,G85,Classical,GPM
+G87A,Primary,NE,G87,wild type,batch2,4,Neural,NEU,G87,Neural,NEU
+G87J,Primary,NE,G87,wild type,batch2,4,Neural,NEU,G87,Neural,NEU
+G8A,Primary,NE,G08,wild type,batch2,1,Classical,GPM,G08,Proneural,GPM
+G8C,Primary,CE,G08,wild type,batch2,1,Classical,GPM,G08,Classical,GPM
+G8G,Primary,NE,G08,wild type,batch2,4,Neural,NEU,G08,Neural,NEU
+G90D,Primary,CE,G90,wild type,batch2,2,Proneural,PPR,G90,Proneural,PPR
+G95E,Primary,NE,G95,wild type,batch2,4,Neural,NEU,G95,Neural,NEU
+G95F,Primary,NE,G95,wild type,batch2,4,Neural,NEU,G95,Neural,NEU
+G97E,Primary,CE,G97,wild type,batch2,3,Classical,PPR,G97,Classical,GPM
+G97H,Primary,CE,G97,wild type,batch2,3,Classical,PPR,G97,Classical,GPM
+G97I,Primary,CE,G97,wild type,batch2,3,Classical,PPR,G97,Classical,GPM
+M115B,Primary,CE,128_1,WT,batch1,3,Classical,PPR,128,Classical,GPM
+M115D,Primary,CE,128_1,WT,batch1,3,Classical,PPR,128,Classical,GPM
+M115E,Primary,CE,128_1,WT,batch1,3,Classical,PPR,128,Classical,GPM
+M115I,Primary,CE,128_1,WT,batch1,1,Classical,GPM,128,Classical,GPM
+M20A,Primary,CE,G28,wild type,batch2,5,Mesenchymal,MTC,G28,Classical,GPM
+M20B,Primary,CE,G28,wild type,batch2,1,Classical,GPM,G28,Classical,GPM
+M20C,Primary,CE,G28,wild type,batch2,4,Neural,NEU,G28,Classical,NEU
+M20D,Primary,CE,G28,wild type,batch2,1,Classical,GPM,G28,Classical,GPM
+M24B,Primary,CE,G28,wild type,batch2,7,Mesenchymal,GPM,G28,Classical,GPM
+M24C,Primary,NE,G28,wild type,batch2,1,Classical,GPM,G28,Classical,GPM
+M24E,Primary,NE,G28,wild type,batch2,1,Classical,GPM,G28,Classical,GPM
+M24F,Primary,CE,G28,wild type,batch2,1,Classical,GPM,G28,Classical,GPM
+M74G,Recurrent,CE,44_2,WT,batch1,5,Mesenchymal,MTC,44,Classical,GPM
+M74H,Recurrent,CE,44_2,WT,batch3,5,Mesenchymal,MTC,44,Mesenchymal,MTC
+M91B,Recurrent,NE,76_2,WT,batch3,6,Mesenchymal,GPM,76,Unclassified,GPM
+M91E,Recurrent,NE,76_2,WT,batch1,6,Mesenchymal,GPM,76,Classical,GPM
+M91H,Recurrent,CE,76_2,WT,batch1,6,Mesenchymal,GPM,76,Classical,GPM
+M95B,Recurrent,CE,G42,wild type,batch2,7,Mesenchymal,GPM,G42,Classical,GPM
+M95C,Recurrent,CE,G42,wild type,batch2,7,Mesenchymal,GPM,G42,Classical,GPM
+M95F,Recurrent,NE,G42,wild type,batch2,7,Mesenchymal,GPM,G42,Classical,GPM
+P059_112194,Primary,NE,P059,wild type,batch2,4,Neural,NEU,P059,Neural,NEU
+P059_112327,Primary,NE,P059,wild type,batch2,6,Mesenchymal,GPM,P059,Classical,GPM
+P108_358411,Primary,CE,P108,wild type,batch2,2,Proneural,PPR,P108,Proneural,GPM
+P129_375688,Primary,NE,P129,wild type,batch2,4,Neural,NEU,P129,Classical,NEU
+P129_375970,Primary,NE,P129,wild type,batch2,4,Neural,NEU,P129,Classical,NEU
+P129_375973,Primary,NE,P129,wild type,batch2,3,Classical,PPR,P129,Classical,MTC
+P129_376050,Primary,NE,P129,wild type,batch2,4,Neural,NEU,P129,Classical,MTC
+P129_376085,Primary,NE,P129,wild type,batch2,6,Mesenchymal,GPM,P129,Classical,MTC
+P129_376165,Primary,NE,P129,wild type,batch2,4,Neural,NEU,P129,Classical,NEU
+P129_376176,Primary,NE,P129,wild type,batch2,3,Classical,PPR,P129,Classical,MTC
+P129_376304,Primary,CE,P129,wild type,batch2,5,Mesenchymal,MTC,P129,Classical,GPM
+P129_376322,Primary,NE,P129,wild type,batch2,5,Mesenchymal,MTC,P129,Classical,MTC
+P152_374528,Primary,CE,P152,wild type,batch2,3,Classical,PPR,P152,Classical,MTC
+P152_387720,Primary,CE,P152,wild type,batch2,4,Neural,NEU,P152,Neural,NEU
+P152_387930,Primary,NE,P152,wild type,batch2,3,Classical,PPR,P152,Classical,MTC
+P152_387947,Primary,CE,P152,wild type,batch2,3,Classical,PPR,P152,Classical,GPM
+P152_387979,Primary,CE,P152,wild type,batch2,3,Classical,PPR,P152,Classical,MTC
+P152_388519,Primary,CE,P152,wild type,batch2,3,Classical,PPR,P152,Classical,MTC
+P152_388615,Primary,CE,P152,wild type,batch2,3,Classical,PPR,P152,Classical,MTC
+P184_285504,Primary,CE,P184,wild type,batch2,3,Classical,PPR,P184,Classical,GPM
+P184_285527,Primary,NE,P184,wild type,batch2,4,Neural,NEU,P184,Neural,NEU
+P190_359227,Primary,CE,P190,wild type,batch2,3,Classical,PPR,P190,Mesenchymal,GPM
+P190_359261,Primary,NE,P190,wild type,batch2,4,Neural,NEU,P190,Neural,NEU
+P190_359287,Primary,NE,P190,wild type,batch2,4,Neural,NEU,P190,Neural,NEU
+P190_359313,Primary,NE,P190,wild type,batch2,4,Neural,NEU,P190,Neural,NEU
+P190_359388,Primary,NE,P190,wild type,batch2,4,Neural,NEU,P190,Neural,NEU
+P191_41114,Primary,NE,P191,wild type,batch2,5,Mesenchymal,MTC,P191,Classical,GPM
+P191_41126,Primary,CE,P191,wild type,batch2,5,Mesenchymal,MTC,P191,Mesenchymal,GPM
+P191_41133,Primary,NE,P191,wild type,batch2,3,Classical,PPR,P191,Classical,GPM
+P191_42407,Primary,CE,P191,wild type,batch2,5,Mesenchymal,MTC,P191,Mesenchymal,GPM
+P232_388048,Primary,CE,P232,wild type,batch2,2,Proneural,PPR,P232,Proneural,GPM
+P232_388050,Primary,CE,P232,wild type,batch2,2,Proneural,PPR,P232,Proneural,GPM
+P232_388140,Primary,CE,P232,wild type,batch2,2,Proneural,PPR,P232,Proneural,GPM
+P232_388151,Primary,CE,P232,wild type,batch2,2,Proneural,PPR,P232,Proneural,MTC
+P241_387864,Primary,CE,P241,wild type,batch2,3,Classical,PPR,P241,Classical,GPM
+P241_387872,Primary,CE,P241,wild type,batch2,3,Classical,PPR,P241,Classical,GPM
+R105A,Recurrent,NE,1,Wt,batch1,4,Neural,NEU,1,Neural,NEU
+R105B,Recurrent,NE,105,Wt,batch1,4,Neural,NEU,105,Neural,NEU
+R105D,Recurrent,CE,105,Wt,batch1,7,Mesenchymal,GPM,105,Classical,GPM
+R105F,Recurrent,NE,105,Wt,batch1,7,Mesenchymal,GPM,105,Classical,GPM
+R105H,Recurrent,CE,105,Wt,batch3,7,Mesenchymal,GPM,105,Mesenchymal,GPM
+R105I,Recurrent,CE,105,Wt,batch1,7,Mesenchymal,GPM,105,Classical,GPM
+R105J,Recurrent,NE,105,Wt,batch1,7,Mesenchymal,GPM,105,Classical,GPM
+R105K,Recurrent,NE,105,Wt,batch1,7,Mesenchymal,GPM,105,Classical,GPM
+R128-2C,Recurrent,NE,128_2,Wt,batch1,4,Neural,NEU,128,Neural,NEU
+R128-2D,Recurrent,CE,128_2,Wt,batch1,5,Mesenchymal,MTC,128,Classical,GPM
+R137B,Recurrent,CE,137,Wt,batch1,4,Neural,NEU,137,Classical,GPM
+R137C,Recurrent,CE,137,Wt,batch1,7,Mesenchymal,GPM,137,Mesenchymal,GPM
+R139D,Recurrent,NE,139,Wt,batch1,7,Mesenchymal,GPM,139,Classical,GPM
+R139E,Recurrent,CE,139,Wt,batch1,6,Mesenchymal,GPM,139,Classical,GPM
+R139H,Recurrent,CE,139,Wt,batch1,7,Mesenchymal,GPM,139,Classical,GPM
+R139I,Recurrent,CE,139,Wt,batch1,7,Mesenchymal,GPM,139,Classical,GPM
+R151E,Recurrent,CE,151,Wt,batch1,6,Mesenchymal,GPM,151,Proneural,GPM
+R151J,Recurrent,CE,151,Wt,batch1,7,Mesenchymal,GPM,151,Unclassified,Unclassified
+R151K,Recurrent,CE,151,Wt,batch1,2,Proneural,PPR,151,Proneural,MTC
+R151M,Recurrent,NE,151,Wt,batch1,2,Proneural,PPR,151,Proneural,GPM
+R151N,Recurrent,NE,151,Wt,batch1,4,Neural,NEU,151,Neural,NEU
+R157A,Recurrent,NE,157,Wt,batch1,5,Mesenchymal,MTC,157,Mesenchymal,GPM
+R157C,Recurrent,CE,157,Wt,batch1,5,Mesenchymal,MTC,157,Mesenchymal,GPM
+R157D,Recurrent,CE,157,Wt,batch1,5,Mesenchymal,MTC,157,Mesenchymal,GPM
+R157G,Recurrent,CE,157,Wt,batch1,5,Mesenchymal,MTC,157,Mesenchymal,GPM
+R157H,Recurrent,CE,157,Wt,batch1,5,Mesenchymal,MTC,157,Mesenchymal,GPM
+R180-1D,Recurrent,NE,180_1,WT,batch1,6,Mesenchymal,GPM,180,Classical,GPM
+R180-1E,Recurrent,NE,180_1,WT,batch1,6,Mesenchymal,GPM,180,Classical,GPM
+R180-1F,Recurrent,NE,180_1,WT,batch1,6,Mesenchymal,GPM,180,Classical,GPM
+R180-1I,Recurrent,NE,180_1,WT,batch3,6,Mesenchymal,GPM,180,Unclassified,GPM
+R180-1J,Recurrent,NE,180_1,WT,batch3,4,Neural,NEU,180,Neural,NEU
+R180-1K,Recurrent,NE,180_1,WT,batch3,6,Mesenchymal,GPM,180,Neural,GPM
+R180-2E,Recurrent,NE,180_2,WT,batch1,6,Mesenchymal,GPM,180,Classical,GPM
+R180-2F,Recurrent,NE,180_2,WT,batch1,6,Mesenchymal,GPM,180,Classical,GPM
+R180-2G,Recurrent,NE,180_2,WT,batch1,1,Classical,GPM,180,Classical,GPM
+R180-2K,Recurrent,NE,180_2,WT,batch1,4,Neural,NEU,180,Neural,NEU
+R180-2N,Recurrent,CE,180_2,WT,batch1,4,Neural,NEU,180,Neural,NEU
+R189D,Primary,NE,189,WT,batch1,1,Classical,GPM,189,Classical,GPM
+R189F,Primary,CE,189,WT,batch1,1,Classical,GPM,189,Classical,GPM
+R189J,Primary,CE,189,WT,batch1,4,Neural,NEU,189,Neural,NEU
+R189L,Primary,CE,189,WT,batch1,1,Classical,GPM,189,Classical,GPM
+R190-1H,Recurrent,CE,190_1,WT,batch1,4,Neural,NEU,190,Neural,GPM
+R190-1J,Recurrent,CE,190_1,WT,batch1,4,Neural,NEU,190,Neural,NEU
+R190-1L,Recurrent,NE,190_1,WT,batch1,4,Neural,NEU,190,Neural,NEU
+R190-1N,Recurrent,CE,190_1,WT,batch1,3,Classical,PPR,190,Classical,GPM
+R190-1P,Recurrent,CE,190_1,WT,batch1,3,Classical,PPR,190,Classical,GPM
+R190-1R,Recurrent,CE,190_1,WT,batch1,6,Mesenchymal,GPM,190,Classical,GPM
+R190-1T,Recurrent,NE,190_1,WT,batch1,6,Mesenchymal,GPM,190,Classical,GPM
+R190-1V,Recurrent,NE,190_1,WT,batch1,4,Neural,NEU,190,Neural,NEU
+R190-2K,Recurrent,CE,190_2,WT,batch1,6,Mesenchymal,GPM,190,Classical,NEU
+R190-2L,Recurrent,CE,190_2,WT,batch1,7,Mesenchymal,GPM,190,Mesenchymal,GPM
+R190-2N,Recurrent,CE,190_2,WT,batch1,7,Mesenchymal,GPM,190,Classical,GPM
+R190-2O,Recurrent,CE,190_2,WT,batch1,7,Mesenchymal,GPM,190,Mesenchymal,GPM
+R191A,Recurrent,CE,191,WT,batch1,3,Classical,PPR,191,Classical,MTC
+R191E,Recurrent,CE,191,WT,batch1,3,Classical,PPR,191,Classical,GPM
+R191G,Recurrent,CE,191,WT,batch1,3,Classical,PPR,191,Classical,MTC
+R191I,Recurrent,NE,191,WT,batch1,3,Classical,PPR,191,Classical,MTC
+R191K,Recurrent,NE,191,WT,batch3,6,Mesenchymal,GPM,191,Unclassified,MTC
+R191M,Recurrent,NE,191,WT,batch3,4,Neural,NEU,191,Neural,NEU
+R195B,Recurrent,CE,195,WT,batch1,1,Classical,GPM,195,Mesenchymal,GPM
+R195C,Recurrent,CE,195,WT,batch1,5,Mesenchymal,MTC,195,Mesenchymal,MTC
+R195E,Recurrent,CE,195,WT,batch1,1,Classical,GPM,195,Classical,GPM
+R195F,Recurrent,CE,195,WT,batch1,5,Mesenchymal,MTC,195,Classical,MTC
+R195G,Recurrent,NE,195,WT,batch1,1,Classical,GPM,195,Mesenchymal,GPM
+R195H,Recurrent,CE,195,WT,batch1,5,Mesenchymal,MTC,195,Classical,MTC
+R195I,Recurrent,CE,195,WT,batch1,5,Mesenchymal,MTC,195,Classical,GPM
+R198G1,Primary,CE,198,WT,batch1,7,Mesenchymal,GPM,198,Classical,GPM
+R198I1,Primary,CE,198,WT,batch1,3,Classical,PPR,198,Classical,GPM
+R198J,Primary,CE,198,WT,batch1,7,Mesenchymal,GPM,198,Classical,GPM
+R198M1,Primary,CE,198,WT,batch1,6,Mesenchymal,GPM,198,Classical,GPM
+R199-1B,Primary,NE,199_1,wt,batch1,6,Mesenchymal,GPM,199,Classical,GPM
+R199-1C,Primary,NE,199_1,wt,batch1,6,Mesenchymal,GPM,199,Classical,GPM
+R199-1D,Primary,NE,199_1,wt,batch1,6,Mesenchymal,GPM,199,Classical,GPM
+R199-1E,Primary,NE,199_1,wt,batch1,6,Mesenchymal,GPM,199,Classical,GPM
+R199-1F,Primary,NE,199_1,wt,batch1,6,Mesenchymal,GPM,199,Classical,GPM
+R199-1G,Primary,NE,199_1,wt,batch1,3,Classical,PPR,199,Classical,GPM
+R199-1H,Primary,NE,199_1,wt,batch1,1,Classical,GPM,199,Classical,GPM
+R199-2D,Recurrent,CE,199_2,wt,batch1,6,Mesenchymal,GPM,199,Classical,GPM
+R199-2E,Recurrent,NE,199_2,wt,batch3,6,Mesenchymal,GPM,199,Unclassified,MTC
+R199-2F,Recurrent,NE,199_2,wt,batch1,6,Mesenchymal,GPM,199,Classical,GPM
+R199-2H,Recurrent,NE,199_2,wt,batch1,1,Classical,GPM,199,Classical,GPM
+R199-2I,Recurrent,CE,199_2,wt,batch1,6,Mesenchymal,GPM,199,Classical,GPM
+R199-2J,Recurrent,NE,199_2,wt,batch1,6,Mesenchymal,GPM,199,Classical,GPM
+R199-2K,Recurrent,CE,199_2,wt,batch3,6,Mesenchymal,GPM,199,Unclassified,MTC
+R203B1,Recurrent,CE,203,WT,batch1,4,Neural,NEU,203,Classical,NEU
+R203C,Recurrent,CE,203,WT,batch1,7,Mesenchymal,GPM,203,Mesenchymal,GPM
+R203D1,Recurrent,CE,203,WT,batch1,4,Neural,NEU,203,Classical,NEU
+R203G1,Recurrent,CE,203,WT,batch1,4,Neural,NEU,203,Classical,GPM
+R203H,Recurrent,CE,203,WT,batch1,6,Mesenchymal,GPM,203,Classical,GPM
+R203I1,Recurrent,CE,203,WT,batch1,3,Classical,PPR,203,Classical,GPM
+R205C,Recurrent,NE,205,WT,batch3,7,Mesenchymal,GPM,205,Unclassified,MTC
+R205D1,Recurrent,NE,205,WT,batch1,7,Mesenchymal,GPM,205,Classical,GPM
+R205E,Recurrent,NE,205,WT,batch1,6,Mesenchymal,GPM,205,Proneural,GPM
+R205J,Recurrent,CE,205,WT,batch1,7,Mesenchymal,GPM,205,Classical,GPM
+R207G,Recurrent,NE,207,WT,batch1,4,Neural,NEU,207,Classical,NEU
+R207K,Recurrent,NE,207,WT,batch1,6,Mesenchymal,GPM,207,Classical,NEU
+R207L1,Recurrent,NE,207,WT,batch3,6,Mesenchymal,GPM,207,Unclassified,MTC
+R207M,Recurrent,NE,207,WT,batch1,6,Mesenchymal,GPM,207,Classical,GPM
+R207N1,Recurrent,NE,207,WT,batch1,6,Mesenchymal,GPM,207,Classical,GPM
+R207O,Recurrent,NE,207,WT,batch1,6,Mesenchymal,GPM,207,Classical,GPM
+R207P,Recurrent,NE,207,WT,batch1,6,Mesenchymal,GPM,207,Classical,NEU
+R207Q,Recurrent,CE,207,WT,batch1,5,Mesenchymal,MTC,207,Mesenchymal,GPM
+R210-1A,Recurrent,NE,210_1,WT,batch1,4,Neural,NEU,210,Neural,NEU
+R210-1F,Recurrent,NE,210_1,WT,batch1,5,Mesenchymal,MTC,210,Proneural,GPM
+R210-1G,Recurrent,NE,210_1,WT,batch1,2,Proneural,PPR,210,Proneural,GPM
+R210-1H,Recurrent,NE,210_1,WT,batch1,4,Neural,NEU,210,Neural,NEU
+R210-1I,Recurrent,CE,210_1,WT,batch1,7,Mesenchymal,GPM,210,Proneural,MTC
+R210-1K,Recurrent,NE,210_1,WT,batch1,2,Proneural,PPR,210,Proneural,GPM
+R210-1L,Recurrent,CE,210_1,WT,batch1,2,Proneural,PPR,210,Proneural,GPM
+R210-2D,Recurrent,CE,210_2,WT,batch1,5,Mesenchymal,MTC,210,Classical,GPM
+R210-2E,Recurrent,NE,210_2,WT,batch1,6,Mesenchymal,GPM,210,Classical,GPM
+R210-2F,Recurrent,CE,210_2,WT,batch1,3,Classical,PPR,210,Classical,GPM
+R210-2G,Recurrent,NE,210_2,WT,batch1,3,Classical,PPR,210,Classical,GPM
+R210-2H,Recurrent,CE,210_2,WT,batch1,7,Mesenchymal,GPM,210,Classical,GPM
+R210-2I,Recurrent,NE,210_2,WT,batch3,7,Mesenchymal,GPM,210,Unclassified,MTC
+R210-2J,Recurrent,NE,210_2,WT,batch3,7,Mesenchymal,GPM,210,Unclassified,GPM
+R210-2K,Recurrent,CE,210_2,WT,batch1,6,Mesenchymal,GPM,210,Classical,GPM
+R214-1B,Primary,CE,214_1,WT,batch1,4,Neural,NEU,214,Neural,NEU
+R214-1C,Primary,CE,214_1,WT,batch1,4,Neural,NEU,214,Neural,NEU
+R214-2B,Recurrent,NE,214_2,WT,batch1,6,Mesenchymal,GPM,214,Classical,NEU
+R214-2C,Recurrent,NE,214_2,WT,batch1,4,Neural,NEU,214,Classical,GPM
+R214-2D,Recurrent,NE,214_2,WT,batch1,4,Neural,NEU,214,Classical,GPM
+R216J,Recurrent,CE,216,WT,batch1,7,Mesenchymal,GPM,216,Classical,MTC
+R216O1,Recurrent,CE,216,WT,batch1,4,Neural,NEU,216,Neural,NEU
+R217B,Primary,CE,217,WT,batch1,2,Proneural,PPR,217,Proneural,NEU
+R217C,Primary,CE,217,WT,batch1,4,Neural,NEU,217,Neural,NEU
+R217D,Primary,CE,217,WT,batch1,2,Proneural,PPR,217,Neural,NEU
+R217E,Primary,CE,217,WT,batch3,2,Proneural,PPR,217,Unclassified,MTC
+R217H1,Primary,CE,217,WT,batch1,4,Neural,NEU,217,Neural,NEU
+R217L,Primary,NE,217,WT,batch1,5,Mesenchymal,MTC,217,Classical,GPM
+R217O,Primary,CE,217,WT,batch1,6,Mesenchymal,GPM,217,Classical,GPM
